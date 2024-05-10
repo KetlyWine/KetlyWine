@@ -23,7 +23,7 @@ _Graduanda de Sistemas de informação e apaixonada por tecnologia._
 
 #### _Entre em contato | Contact me_
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23D3B784?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/Kety_Wine/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-D1B48C?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/Kety_Wine/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D1B48C?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ketly-wine-carvalho007//)&nbsp;
 [![E-mail](https://img.shields.io/badge/-Email-D1B48C?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:ketly.wine@gmail.com)&nbsp;
 
